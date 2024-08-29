@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://itcs.sufe.edu.cn/'>Shanghai University of Finance and Economics, ITCS</a>.
+subtitle: <a href='https://itcs.sufe.edu.cn/'>ITCS, Shanghai University of Finance and Economics</a>.
 
 profile:
   align: right
