@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://itcs.sufe.edu.cn/'>Shanghai University of Finance and Economics, ITCS</a>.
 
