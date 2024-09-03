@@ -2,8 +2,18 @@
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"TSG":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411
+  color: "#FFD941"
 
-"Vision":
-  color: "#009f36"
+"CDC 2021":
+  color: "#FFD941"
+
+"e-Energy 2020":
+  color: "#FFD941"
+
+"ISGT 2020":
+  color: "#FFD941"
+
+"MOTOR 2024":
+  url: https://motor24.oscsbras.ru/pages/en_index.html

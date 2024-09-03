@@ -2,33 +2,32 @@
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"wu":
+  - firstname: ["Chenye"]
+    url:  https://www.wuchenye.cn
+  - firstname: ["Jiaman"]
+    url: https://charmainewu.github.io
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"huang":
+  - firstname: ["Lingxiao"]
+    url: https://sites.google.com/site/lingxiaohuang1990
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"xiao":
+  - firstname: ["Tao"]
+    url: https://taoxiao1992.github.io
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"yan":
+  - firstname: ["Xiang"]
+    url: https://xyansjtu.github.io
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"lu":
+  - firstname: ["Chenbei"]
+    url: https://luchenbei.com
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"yu":
+  - firstname: ["Yang"]
+    url: https://iiis.tsinghua.edu.cn/en/yuy
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"wang":
+  - firstname: ["Yuyi"]
+    url: https://disco.ethz.ch/alumni/yuwang
