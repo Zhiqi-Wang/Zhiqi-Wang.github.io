@@ -4,17 +4,19 @@
 
 "TSG":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411
-  color: "#FFD941"
+  color: "#F5D140"
 
 "CDC 2021":
-  color: "#FFD941"
+  color: "#F5D140"
   url: https://2021.ieeecdc.org
 
 "e-Energy 2020":
-  color: "#FFD941"
+  color: "#F5D140"
+  url: https://energy.acm.org/conferences/eenergy/2020
 
 "ISGT 2020":
-  color: "#FFD941"
+  color: "#F5D140"
+  url: https://attend.ieee.org/isgt-na-2020/
 
 "MOTOR 2024":
   url: https://motor24.oscsbras.ru/pages/en_index.html

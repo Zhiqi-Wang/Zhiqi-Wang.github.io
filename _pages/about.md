@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am Zhiqi Wang (汪至祺), a second-year Ph.D. student majoring in Management Science and Engineering at <a href='https://itcs.sufe.edu.cn/'>ITCS, Shanghai University of Finance and Economics</a>, advised by <a href='https://ngravin.github.io'>Nick Gravin</a> and <a href='http://pinyanlu.com'>Pinyan Lu</a>. Prior to that, I completed my bachelor’s and master's degree in Computer Science at <a href='https://iiis.tsinghua.edu.cn/'>IIIS, Tsinghua University</a> (a.k.a. Yao Class).
+I am Zhiqi Wang (汪至祺), a second-year Ph.D. student majoring in Management Science and Engineering at <a href='https://itcs.sufe.edu.cn/'>ITCS, Shanghai University of Finance and Economics</a>, advised by <a href='https://ngravin.github.io'>Nick Gravin</a> and <a href='http://pinyanlu.com'>Pinyan Lu</a>. Prior to that, I completed my bachelor’s and master's degree in Computer Science at <a href='https://iiis.tsinghua.edu.cn/'>IIIS, Tsinghua University</a> (a.k.a. <a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a>).
 
 My research interests lie broadly in algorithmic game theory. My current focus is on designing more robust and efficient mechanisms, particularly in the context of auctions.
 In the early stages of my academic career, I was particularly interested in smart grid, especially topics related to storage control.
