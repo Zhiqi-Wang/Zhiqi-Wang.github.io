@@ -11,6 +11,8 @@ nav_order: 1
 
 <!-- Bibsearch Feature -->
 
+The authors of AGT papers are listed in alphabetical order.
+
 {% include bib_search.liquid %}
 
 <div class="publications">
