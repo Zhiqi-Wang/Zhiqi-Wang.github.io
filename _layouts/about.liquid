@@ -56,13 +56,38 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
+    <!-- Selected papers in AGT -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
+      <h2>Selected Publications in AGT</h2>
+      <div id="agt-first-paper">
+        {% assign first_paper = page.selected_papers | first %}
+        {% include selected_agtpapers.liquid paper=first_paper %}
+      </div>
+      <div id="agt-more-papers" style="display: none;">
+        {% assign remaining_papers = page.selected_papers | slice: 1, page.selected_papers.size %}
+        {% for paper in remaining_papers %}
+          {% include selected_agtmorepapers.liquid paper=paper %}
+        {% endfor %}
+      </div>
+      <button id="agt-see-more" onclick="togglePapers('agt-more-papers', 'agt-see-more')" style="border: none; background: none; padding: 0; color: blue; cursor: pointer;">See More</button>
     {% endif %}
+
+    <!-- Selected papers in Smart Grid -->
+    {% if page.selected_papers %}
+      <h2>Selected Publications in Smart Grid</h2>
+      <div id="smartgrid-first-paper">
+        {% assign first_paper = page.selected_papers | first %}
+        {% include selected_papers.liquid paper=first_paper %}
+      </div>
+      <div id="smartgrid-more-papers" style="display: none;">
+        {% assign remaining_papers = page.selected_papers | slice: 1, page.selected_papers.size %}
+        {% for paper in remaining_papers %}
+          {% include selected_morepapers.liquid paper=paper %}
+        {% endfor %}
+      </div>
+      <button id="smartgrid-see-more" onclick="togglePapers('smartgrid-more-papers', 'smartgrid-see-more')" style="border: none; background: none; padding: 0; color: blue; cursor: pointer;">See More</button>
+    {% endif %}
+
 
     <!-- Social -->
     {% if page.social %}
