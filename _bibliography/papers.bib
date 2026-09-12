@@ -1,3 +1,14 @@
+@inproceedings{gravin2026optimal,
+  title={Optimal Posted Pricing with Unknown Demand under Uniform Arrivals},
+  author={Gravin, Nick and Li, Hao and <strong>Wang</strong>, <strong>Zhiqi</strong>},
+  booktitle={Proceedings of the 22nd Conference on Web and Internet Economics (WINE)},
+  year={2026},
+  abbr={WINE 2026},
+  selected={agt},
+  pdf={unknown_demand.pdf},
+  abstract={We consider the classic problem of selling a single item to a stream of buyers with private values, which is a well-studied setting of single-choice i.i.d. prophet inequality. The optimal online policy and uniform pricing are crucially dependent on demand n, i.e., the number of buyers in the stream. In practice, such as online commerce applications, the demand is often hard to predict and estimate in advance. To address this unpredictability of the demand, we propose a natural online learning setting in which an adversary chooses n and the algorithm learns the demand by observing the arrival times of the buyers. We assume that customers in the stream arrive independently at random times drawn from a known distribution. This model is equivalent to uniform i.i.d. arrivals in the [0,1] time interval. We evaluate the online algorithm in the worst case over the demand n against two standard benchmarks: the offline prophet OFF(n) and the optimal online policy ON(n) with known demand n. We analyze single-threshold strategies that use the first arrival time t1 as a one-point estimator of demand and then commit to a uniform price. We first show that a simple rule is 1/2-competitive with respect to the OFF benchmark and find a more sophisticated rule that achieves a ln 3/2 ≈ 0.549 competitive ratio. Finally, we develop fully polynomial-time approximation schemes (FPTAS) to compute near-optimal unknown-demand policies against both benchmarks. The core of our approach is a no-regret learning procedure that computes a Nash equilibrium in a zero-sum game between the algorithm and an adversary who chooses n. As an application, we implement our FPTAS and identify instances showing a separation in approximation ratio between our unknown-demand model and the classical known-demand i.i.d. prophet inequality.}
+}
+
 @inproceedings{Bei2023optimal,
   title={Optimal Auction Design for Mixed Bidders},
   author={Bei, Xiaohui and Lu, Pinyan and <strong>Wang</strong>, <strong>Zhiqi</strong> and Yan, Xiang and Xiao, Tao},
@@ -34,7 +45,6 @@
   arxiv={2402.02673},
   pdf={2402.02673v1.pdf},
   abstract={Multi-winner voting plays a crucial role in selecting representative committees based on voter preferences. Previous research has predominantly focused on single-stage voting rules, which are susceptible to manipulation during preference collection. In order to mitigate manipulation and increase the cost associated with it, we propose the introduction of multiple stages in the voting procedure, leading to the development of a unified framework of multi-stage multi-winner voting rules. To shed light on this framework of voting methods, we conduct an axiomatic study, establishing provable conditions for achieving desired axioms within our model. Our theoretical findings can serve as a guide for the selection of appropriate multi-stage multi-winner voting rules.},
-  selected={agtmore},
   organization={Springer}
 }
 
