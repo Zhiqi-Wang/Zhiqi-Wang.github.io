@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper “Optimal Posted Pricing with Unknown Demand under Uniform Arrivals” is accepted to <a href='https://wine2026conf.github.io/'>WINE 2026</a> :sparkles:
+My paper “Online Posted Pricing with Unknown Demand” is accepted to <a href='https://wine2026conf.github.io/'>WINE 2026</a> :sparkles:
